@@ -1,0 +1,8 @@
+pretrained_models.zip
+code_3DLUT/trilinear_cpp/build
+code_3DLUT/saved_models
+code_3DLUT/trilinear_cpp/trilinear.egg-info
+__pycache__
+*.jpg
+*.tif
+*.png
